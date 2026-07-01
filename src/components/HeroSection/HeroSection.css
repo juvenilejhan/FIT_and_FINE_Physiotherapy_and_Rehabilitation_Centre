@@ -96,7 +96,7 @@
 .hero-copy {
   padding: 44px;
   border-radius: 28px;
-  background-image: url("/hero.jpeg");
+  background-image: url("/hero.png");
 
   /* 1. Make it big enough to fill the box */
   background-size: cover;
