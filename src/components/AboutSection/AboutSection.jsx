@@ -7,14 +7,16 @@ export default function AboutSection({ contact, mapsLink }) {
       <SectionTitle
         eyebrow="About the center"
         title="Calm, clinical, and approachable care"
-        description="The design direction follows the uploaded logo, using green, orange, and blue tones to reflect movement, recovery, and confidence."
+        description="Expert physiotherapy care tailored to your unique needs. Our team of licensed specialists provides comprehensive treatment to help you regain mobility, reduce pain, and improve your quality of life."
       />
       <div className="about-grid">
         <div className="about-panel">
           <h3>Why this works</h3>
           <p>
-            The homepage is structured to build trust quickly, then push users
-            toward a single action: start a conversation on WhatsApp.
+            Fit and Fine Physiotherapy & Rehabilitation Centre is a trusted
+            physiotherapy clinic with 18+ years of experience. We provide pain
+            management, stroke rehabilitation, sports injury treatment and
+            personalized physiotherapy care.
           </p>
         </div>
         <div className="about-panel accent">

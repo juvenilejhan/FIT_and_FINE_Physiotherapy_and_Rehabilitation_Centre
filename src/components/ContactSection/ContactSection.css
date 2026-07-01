@@ -14,6 +14,10 @@
   display: grid;
   gap: 16px;
   grid-template-columns: repeat(4, minmax(0, 1fr));
+
+  a strong{
+    color:rgb(238, 132, 10)
+  }
 }
 
 .contact-card {

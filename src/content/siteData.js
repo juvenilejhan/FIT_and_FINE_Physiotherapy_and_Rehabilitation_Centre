@@ -44,7 +44,6 @@ export const services = [
 
 export const highlights = [
   "Personalized care plans",
-  "WhatsApp-first contact",
   "Convenient Uttara location",
 ];
 
