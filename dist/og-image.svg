@@ -1,0 +1,21 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F7FBF8"/>
+  <circle cx="250" cy="315" r="160" stroke="url(#paint0_linear)" stroke-width="20" stroke-linecap="round" stroke-dasharray="760 140"/>
+  <circle cx="200" cy="320" r="38" fill="#EFF7FF" stroke="#2F5F7B" stroke-width="8"/>
+  <circle cx="200" cy="320" r="14" fill="#F59E0B"/>
+  <path d="M200 274V220M200 376V430M146 320H92M258 320H312" stroke="#2F5F7B" stroke-width="8" stroke-linecap="round"/>
+  <path d="M238 235L214 287L272 312" stroke="#4D9F58" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M286 280L337 243" stroke="#F59E0B" stroke-width="14" stroke-linecap="round"/>
+  <text x="420" y="240" fill="#17313A" font-size="66" font-family="Manrope, Arial, sans-serif" font-weight="800">FIT &amp; FINE</text>
+  <text x="420" y="310" fill="#4D9F58" font-size="52" font-family="Manrope, Arial, sans-serif" font-weight="800">PHYSIOTHERAPY CENTRE</text>
+  <text x="420" y="382" fill="#EA8F2C" font-size="38" font-family="Playfair Display, Georgia, serif" font-weight="600">A New Concept in Physiotherapy</text>
+  <text x="420" y="470" fill="#5F6F78" font-size="30" font-family="Manrope, Arial, sans-serif">WhatsApp-first contact | Uttara, Dhaka</text>
+  <text x="420" y="520" fill="#5F6F78" font-size="26" font-family="Manrope, Arial, sans-serif">+880 1717-428220 | fitandfine.uttara@gmail.com</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="90" y1="155" x2="410" y2="475" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#4D9F58"/>
+      <stop offset="1" stop-color="#1F5C7A"/>
+    </linearGradient>
+  </defs>
+</svg>

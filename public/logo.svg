@@ -1,0 +1,69 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="white"/>
+  <defs>
+    <linearGradient id="ringA" x1="126" y1="132" x2="898" y2="890" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F08A24"/>
+      <stop offset="0.42" stop-color="#54A34D"/>
+      <stop offset="0.74" stop-color="#4B87A7"/>
+      <stop offset="1" stop-color="#EA8C26"/>
+    </linearGradient>
+    <linearGradient id="greenA" x1="384" y1="258" x2="724" y2="548" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#77C043"/>
+      <stop offset="1" stop-color="#3F8E43"/>
+    </linearGradient>
+    <linearGradient id="orangeA" x1="212" y1="240" x2="438" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59D2D"/>
+      <stop offset="1" stop-color="#D96E1E"/>
+    </linearGradient>
+    <linearGradient id="blueA" x1="480" y1="332" x2="706" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6F94B2"/>
+      <stop offset="1" stop-color="#547A93"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="512" cy="512" r="404" stroke="url(#ringA)" stroke-width="26" stroke-linecap="round" stroke-dasharray="2044 220"/>
+  <circle cx="512" cy="512" r="345" stroke="url(#ringA)" stroke-width="20" stroke-linecap="round" stroke-dasharray="1560 150" opacity="0.92"/>
+
+  <path d="M222 318C286 205 410 140 545 152C665 162 775 232 828 336" stroke="url(#orangeA)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M255 707C215 626 206 531 234 444C253 386 293 334 344 298" stroke="url(#greenA)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M820 407C857 498 850 604 800 690C765 749 710 797 645 824" stroke="url(#blueA)" stroke-width="24" stroke-linecap="round"/>
+
+  <path d="M278 388C300 345 340 320 385 317" stroke="url(#orangeA)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M650 340C705 351 752 391 771 445" stroke="url(#greenA)" stroke-width="18" stroke-linecap="round"/>
+
+  <g transform="translate(160 270)">
+    <circle cx="176" cy="233" r="94" fill="#EFF7FF" stroke="#5D7D93" stroke-width="12"/>
+    <circle cx="176" cy="233" r="35" fill="white" stroke="#4B87A7" stroke-width="8"/>
+    <circle cx="176" cy="233" r="12" fill="#3E8A45"/>
+    <path d="M176 139V92M176 374V328M82 233H24M272 233H316" stroke="#5D7D93" stroke-width="12" stroke-linecap="round"/>
+    <path d="M145 215L193 180L216 233" stroke="#EA8C26" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M216 233L267 264" stroke="#4D9F58" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="174" cy="126" r="20" fill="#F59E2D"/>
+  </g>
+
+  <g transform="translate(428 258)">
+    <circle cx="90" cy="74" r="22" fill="#F59E2D"/>
+    <path d="M90 98V206" stroke="#4D9F58" stroke-width="24" stroke-linecap="round"/>
+    <path d="M90 137L40 184" stroke="#EA8C26" stroke-width="18" stroke-linecap="round"/>
+    <path d="M90 137L150 170" stroke="#4D9F58" stroke-width="18" stroke-linecap="round"/>
+    <path d="M90 206L58 298" stroke="#5D7D93" stroke-width="20" stroke-linecap="round"/>
+    <path d="M90 206L132 294" stroke="#5D7D93" stroke-width="20" stroke-linecap="round"/>
+    <path d="M150 170L174 214" stroke="#EA8C26" stroke-width="16" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(659 310)">
+    <circle cx="106" cy="78" r="22" fill="#F59E2D"/>
+    <path d="M108 101V198" stroke="#4D9F58" stroke-width="24" stroke-linecap="round"/>
+    <path d="M108 146C154 176 183 202 196 240" stroke="#5D7D93" stroke-width="22" stroke-linecap="round"/>
+    <path d="M108 146C78 191 67 237 74 289" stroke="#4D9F58" stroke-width="22" stroke-linecap="round"/>
+    <path d="M183 205L244 180" stroke="#EA8C26" stroke-width="16" stroke-linecap="round"/>
+    <path d="M196 240L258 268" stroke="#5D7D93" stroke-width="18" stroke-linecap="round"/>
+  </g>
+
+  <path d="M218 232L444 232" stroke="#5D7D93" stroke-width="18" stroke-linecap="round" opacity="0.6"/>
+  <path d="M225 620L795 620" stroke="#5D7D93" stroke-width="18" stroke-linecap="round" opacity="0.45"/>
+
+  <text x="506" y="760" text-anchor="middle" fill="#EA8C26" font-size="118" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="2">FIT &amp; FINE</text>
+  <text x="506" y="842" text-anchor="middle" fill="#3E8A45" font-size="72" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">PHYSIOTHERAPY CENTRE</text>
+  <text x="506" y="910" text-anchor="middle" fill="#D16F24" font-size="42" font-family="Georgia, 'Times New Roman', serif" font-weight="700">"A New Concept In Physiotherapy"</text>
+</svg>

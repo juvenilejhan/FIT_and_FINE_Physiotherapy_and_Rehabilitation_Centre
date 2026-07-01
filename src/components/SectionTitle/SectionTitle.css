@@ -1,0 +1,26 @@
+.eyebrow,
+.section-title p {
+  margin: 0 0 10px;
+  font-size: 0.82rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--orange);
+}
+
+.section-title {
+  margin-bottom: 22px;
+}
+
+.section-title h2 {
+  font-family: "Playfair Display", serif;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  margin: 0 0 10px;
+  line-height: 1.02;
+}
+
+.section-title span {
+  display: block;
+  max-width: 70ch;
+  line-height: 1.7;
+}
