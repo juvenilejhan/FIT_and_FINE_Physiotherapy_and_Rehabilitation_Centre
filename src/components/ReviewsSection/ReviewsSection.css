@@ -1,0 +1,38 @@
+/* Reusing your existing classes! 
+   Do not copy these if they are already in your global CSS file */
+/* 
+.content-band { ... } 
+.about-grid { ... } 
+.about-panel { ... } 
+.about-panel:hover { ... } 
+*/
+
+/* --- NEW STYLES SPECIFIC TO REVIEWS --- */
+
+.review-stars {
+  margin-bottom: 14px;
+  font-size: 1.1rem;
+  display: flex;
+  gap: 2px;
+}
+
+.star {
+  color: #cbd5e1; /* Light gray for empty stars */
+}
+
+.star.filled {
+  color: #facc15; /* Tailwind yellow-400 equivalent */
+}
+
+.review-text {
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 14px;
+  color: #334155; /* Slightly darker gray for text readability */
+}
+
+.review-author {
+  font-weight: 700;
+  color: var(--blue); /* Using your existing blue variable */
+  font-size: 0.95rem;
+}

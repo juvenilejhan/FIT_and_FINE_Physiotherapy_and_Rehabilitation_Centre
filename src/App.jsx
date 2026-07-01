@@ -7,6 +7,7 @@ import Header from "./components/Header/Header";
 import HeroSection from "./components/HeroSection/HeroSection";
 import ProcessSection from "./components/ProcessSection/ProcessSection";
 import ServicesSection from "./components/ServicesSection/ServicesSection";
+import ReviewsSection from "./components/ReviewsSection/ReviewsSection";
 import {
   contact,
   faqs,
@@ -15,6 +16,7 @@ import {
   processSteps,
   services,
   whatsappLink,
+  patientReviews,
 } from "./content/siteData";
 
 function App() {
@@ -36,6 +38,7 @@ function App() {
           whatsappLink={whatsappLink}
           mapsLink={mapsLink}
         />
+        <ReviewsSection reviews={patientReviews} />
         <FaqSection faqs={faqs} />
       </main>
 

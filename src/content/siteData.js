@@ -70,3 +70,31 @@ export const faqs = [
       "House 68, Ist floor, Road 03, Gausul Azom Road, Sector 14, Uttara, Dhaka 1230.",
   },
 ];
+
+export const patientReviews = [
+  {
+    id: 1,
+    name: "Sara Mehjabin",
+    rating: 5,
+    text: "After my car accident, I thought I'd never walk normally again. The team here not only got me walking, but running! The personalized care was incredible.",
+  },
+  {
+    id: 2,
+    name: "Azizur R.",
+    rating: 5,
+    text: "Professional, clean, and effective. My back pain that plagued me for years was finally resolved in just a few sessions.",
+  },
+  {
+    id: 3,
+    name: "Anita Kar",
+    rating: 4,
+    text: "The stroke rehabilitation program was phenomenal. The therapists are patient and truly care about your progress.",
+  },
+  {
+    id: 4,
+    name: "Rezaul Islam",
+    rating: 5,
+    text: "Best physiotherapy center in the city. Highly recommend to any athlete dealing with injuries.",
+  },
+];
+  
