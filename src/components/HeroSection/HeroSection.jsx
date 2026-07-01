@@ -12,9 +12,9 @@ export default function HeroSection({ contact, whatsappLink, highlights }) {
         </h1>
         <p className="lead">
           <strong>FIT & FINE Physiotherapy & Rehabilitation Centre</strong> is a
-          trusted physiotherapy clinic with 18+ years of experience. We provide
-          pain management, stroke rehabilitation, sports injury treatment and
-          personalized physiotherapy care.
+          trusted physiotherapy clinic with <strong>18+ years of experience.</strong> We
+          provide pain management, stroke rehabilitation, sports injury
+          treatment and personalized physiotherapy care.
         </p>
 
         <div className="hero-actions">
