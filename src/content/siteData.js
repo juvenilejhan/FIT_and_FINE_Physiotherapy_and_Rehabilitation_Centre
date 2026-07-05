@@ -8,7 +8,7 @@ export const contact = {
 };
 
 export const whatsappMessage = encodeURIComponent(
-  "আসসালামু আলাইকুম। আমি ফিজিওথেরাপি নেওয়ার জন্য আপনাদের ক্লিনিকে আসতে চাই। সিরিয়াল বা অ্যাপয়েন্টমেন্ট কীভাবে পাবো?",
+  "আসসালামু আলাইকুম। আমি ফিজিওথেরাপি নেওয়ার জন্য আপনাদের সেন্টারে আসতে চাই। সিরিয়াল বা অ্যাপয়েন্টমেন্ট কীভাবে পাবো?",
 );
 
 export const whatsappLink = `https://wa.me/${contact.phone.replace(/[^\d]/g, "")}?text=${whatsappMessage}`;
