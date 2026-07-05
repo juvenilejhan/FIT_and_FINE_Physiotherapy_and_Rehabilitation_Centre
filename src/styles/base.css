@@ -24,7 +24,8 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  font-family: "Manrope", sans-serif;
+  /* font-family: "Manrope", sans-serif; */
+  font-family: "Noto Sans Bengali", "SolaimanLipi", "Nirmala UI", sans-serif;
   color: var(--text);
   background:
     radial-gradient(
@@ -49,6 +50,10 @@ a {
   width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
   padding: 20px 0 28px;
+}
+
+.bangla-text {
+  font-family: "Noto Sans Bengali", "SolaimanLipi", "Nirmala UI", sans-serif;
 }
 
 @keyframes floatIn {

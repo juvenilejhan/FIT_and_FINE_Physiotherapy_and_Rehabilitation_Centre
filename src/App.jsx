@@ -32,14 +32,14 @@ function App() {
         />
         <ServicesSection services={services} />
         <AboutSection contact={contact} mapsLink={mapsLink} />
+        <ReviewsSection reviews={patientReviews} />
         <ProcessSection processSteps={processSteps} />
+        <FaqSection faqs={faqs} />
         <ContactSection
-          contact={contact}
           whatsappLink={whatsappLink}
+          contact={contact}
           mapsLink={mapsLink}
         />
-        <ReviewsSection reviews={patientReviews} />
-        <FaqSection faqs={faqs} />
       </main>
 
       <Footer facebook={contact.facebook} />

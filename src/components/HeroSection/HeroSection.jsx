@@ -6,15 +6,14 @@ export default function HeroSection({ contact, whatsappLink, highlights }) {
     <section className="hero">
       <div className="hero-copy">
         <p className="eyebrow">A New Concept in Physiotherapy</p>
-        <h1>
-          Focused physiotherapy and rehabilitation care in{" "}
-          <strong>Uttara.</strong>
-        </h1>
+        <h1>উত্তরায় আপনার বিশ্বস্ত ফিজিওথেরাপি ও পুনর্বাসন কেন্দ্র।</h1>
         <p className="lead">
-          <strong>FIT & FINE Physiotherapy & Rehabilitation Centre</strong> is a
-          trusted physiotherapy clinic with <strong>18+ years of experience.</strong> We
-          provide pain management, stroke rehabilitation, sports injury
-          treatment and personalized physiotherapy care.
+          <strong>
+            ফিট অ্যান্ড ফাইন ফিজিওথেরাপি অ্যান্ড রিহ্যাবিলিটেশন সেন্টার
+          </strong>{" "}
+          প্রায় দুই দশকেরও বেশি সময় ধরে রোগীদের আস্থা অর্জন করে আসছে। ব্যথা
+          নিরাময়, স্ট্রোক পুনর্বাসন, ক্রীড়াবিদদের ইনজুরি চিকিৎসা এবং রোগীর
+          প্রয়োজন অনুযায়ী ফিজিওথেরাপি — সবকিছুই আমরা যত্নসহকারে করি।
         </p>
 
         <div className="hero-actions">

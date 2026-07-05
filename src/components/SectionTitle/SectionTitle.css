@@ -24,3 +24,9 @@
   max-width: 70ch;
   line-height: 1.7;
 }
+
+.section-title h2,
+p,
+span {
+  font-family: "Noto Sans Bengali", "SolaimanLipi", "Nirmala UI", sans-serif;
+}

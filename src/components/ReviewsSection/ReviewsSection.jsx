@@ -26,9 +26,9 @@ export default function ReviewsSection({ reviews }) {
   return (
     <section className="content-band" id="reviews">
       <SectionTitle
-        eyebrow="Testimonials"
-        title="What our patients say"
-        description="Real stories from real people who have experienced life-changing results through our specialized care."
+        eyebrow="রোগীদের মতামত"
+        title="আমাদের রোগীরা কী বলেন"
+        description="আমাদের সেবায় যারা সুস্থতা ফিরে পেয়েছেন, তাদের অনুভূতির কয়েকটি সত্যিকারের কথা।"
       />
       <div className="about-grid">
         {reviews.map((review) => (

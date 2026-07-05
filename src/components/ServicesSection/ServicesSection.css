@@ -17,6 +17,7 @@
 }
 
 .service-card {
+  font-family: "Noto Sans Bengali", "SolaimanLipi", "Nirmala UI", sans-serif;
   border-radius: 22px;
   padding: 20px;
   border: 1px solid var(--border);

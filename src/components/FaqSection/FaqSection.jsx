@@ -5,9 +5,9 @@ export default function FaqSection({ faqs }) {
   return (
     <section className="content-band faq-band">
       <SectionTitle
-        eyebrow="FAQ"
-        title="Helpful answers before first contact"
-        description="Short answers make it easier for people to reach out with confidence and without extra back-and-forth."
+        eyebrow="সচরাচর জিজ্ঞাসা"
+        title="যোগাযোগ করার আগে যা জেনে রাখা ভালো"
+        description="চিকিৎসা নেওয়ার আগে এই ছোট তথ্যগুলো আপনার অনিশ্চয়তা দূর করবে এবং সহজেই সিদ্ধান্ত নিতে সাহায্য করবে।"
       />
       <div className="faq-grid">
         {faqs.map((faq) => (

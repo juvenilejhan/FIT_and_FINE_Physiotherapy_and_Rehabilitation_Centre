@@ -5,9 +5,9 @@ export default function ProcessSection({ processSteps }) {
   return (
     <section className="content-band">
       <SectionTitle
-        eyebrow="How it works"
-        title="A simple contact flow that reduces friction"
-        description="The user sees the logo, understands the service, and can reach the clinic in one tap through WhatsApp or email."
+        eyebrow="কীভাবে শুরু করবেন"
+        title="মাত্র তিনটি ধাপে চিকিৎসা শুরু"
+        description="আমরা চাই আপনি যেন কোনো ঝামেলা ছাড়াই সহজেই আমাদের সাথে যোগাযোগ করতে পারেন। মাত্র একটি ক্লিকেই আপনার সুস্থতার যাত্রা শুরু হোক।"
       />
       <div className="process-grid">
         {processSteps.map((step, index) => (
